@@ -36,11 +36,3 @@ I enjoy solving real-world problems and building clean, maintainable backend sys
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
----
-
-## 📈 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=EnSharif&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnSharif&layout=compact&theme=tokyonight" height="180"/>
-</p>
